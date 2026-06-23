@@ -38,6 +38,6 @@ All rights of the app belong to me.
 Discuss your own ideas in connection with the application with me either in:
 -	person
 -	or DM’s
--	or  email messages sent to the email adress I’ll give you in DM
+-	or  email messages sent to the email adress I’ll give you in DM!
 
 As of 23rd of June, 2026 the project is in it's beggining of it's planning.
