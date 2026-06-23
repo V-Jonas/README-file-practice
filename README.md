@@ -34,8 +34,10 @@ Input
 -   Relationships(optional):
 
 	->family:
+
 	->friends:
-	->enemies:
+	
+    ->enemies:
 -   Traits(optional):
 
 -   Hobbies/disliked activities:
