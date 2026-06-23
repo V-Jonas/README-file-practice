@@ -7,4 +7,6 @@ Features
 Technologies
 -	Visual Studio Code for the environment for creating
 -	GitHub, GitHub Desktop for publishing
+Usage
+You symply put in yout texts and values which would make sense in context, and print out the character template.
 
