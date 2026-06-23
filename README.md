@@ -19,6 +19,7 @@ Input
 Name:
 Age:
 Relatives(optional):
+
 	->family:
 	->friends:
 	->enemies:
