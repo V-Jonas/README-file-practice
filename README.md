@@ -18,7 +18,7 @@ Here, you can create a character tmeplates of your desire according to available
 
 You symply put in yout texts and values which would make sense in context, and print out the character template.
 
-Example: 
+(Example) 
 
 Input
 
@@ -46,6 +46,7 @@ V-Jonas
 
 --------------------------------------------------
 |License|
+
 All rights of the app belong to me. 
 Discuss your own ideas in connection with the application with me either in:
 -	person
