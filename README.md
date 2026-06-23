@@ -4,4 +4,7 @@ Features
 -	Create your character
 -	Character comparison
 -	Comments
+Technologies
+-	Visual Studio Code for the environment for creating
+-	GitHub, GitHub Desktop for publishing
 
