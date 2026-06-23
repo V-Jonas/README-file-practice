@@ -66,4 +66,4 @@ Discuss your own ideas in connection with the application with me either in:
 -	or DM’s
 -	or email messages sent to the email adress I’ll give you in DM!
 
-As of 23rd of June, 2026 the project is in it's beggining of it's planning.
+As of 23rd of June, 2026 the project is in it's beggining of its planning.
