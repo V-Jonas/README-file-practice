@@ -1,6 +1,6 @@
 CHARACTER CREATOR
 ==================================================
-Here, you can create a character templates of your desire according to available TV shows, personality buids, current trends ect.
+Here, you can create a character template of your desire according to available TV shows, personality builds, current trends etc.
 
 --------------------------------------------------
 |Features|
@@ -12,14 +12,14 @@ Here, you can create a character templates of your desire according to available
 --------------------------------------------------
 |Technologies|
 ==================================================
--	Visual Studio Code for the environment for creating
+-	Visual Studio Code as the development environment
 -	GitHub, GitHub Desktop for publishing
 -   Programming languages: C#, JavaScript (Also using HTML and CSS.)
 
 --------------------------------------------------
 |Usage|
 ==================================================
-You simply put in yout texts and values which would make sense in context, and print out the character template.
+You simply put in your texts and values which would make sense in context, and print out the character template.
 
 (Example) 
 ==================================================
@@ -65,9 +65,9 @@ V-Jonas
 All rights of the app belong to me. 
 Discuss your own ideas in connection with the application with me either in:
 -	person
--	or DM’s
--	or email messages sent to the email adress I’ll give you in DM!
+-	or DM
+-	or email messages sent to the email address I’ll give you in DM!
 
-Please try to keep your tone in a respectful manner.
+Please try to keep your tone respectful.
 
-As of 23rd of June, 2026 the project is in it's beggining of its planning.
+As of 23rd of June, 2026 the project is in its beginning of its planning.
