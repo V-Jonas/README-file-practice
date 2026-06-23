@@ -4,18 +4,20 @@ Here, you can create a character tmeplates of your desire according to available
 
 --------------------------------------------------
 |Features|
+==================================================
 -	Create your character
 -	Character comparison
 -	Comments
 
 --------------------------------------------------
 |Technologies|
+==================================================
 -	Visual Studio Code for the environment for creating
 -	GitHub, GitHub Desktop for publishing
 
 --------------------------------------------------
 |Usage|
-
+==================================================
 You symply put in yout texts and values which would make sense in context, and print out the character template.
 
 (Example) 
@@ -49,10 +51,12 @@ He/She likes ..., dislikes ...
 
 --------------------------------------------------
 |Author|
+==================================================
 V-Jonas
 
 --------------------------------------------------
 |License|
+==================================================
 
 All rights of the app belong to me. 
 Discuss your own ideas in connection with the application with me either in:
