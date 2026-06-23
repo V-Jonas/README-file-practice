@@ -26,11 +26,8 @@ Traits(optional):
 Hobbies/disliked activities:
 
 Output
-
 NAME (AGE)
-
 He/she is the son/daughter of … and …, …
-
 He/She likes …
 
 Author:
