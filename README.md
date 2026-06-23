@@ -27,18 +27,18 @@ You symply put in yout texts and values which would make sense in context, and p
 Input
 =>
 
-Name:
+-   Name:
 
-Age:
+-   Age:
 
-Relationships(optional):
+-   Relationships(optional):
 
 	->family:
 	->friends:
 	->enemies:
-Traits(optional):
+-   Traits(optional):
 
-Hobbies/disliked activities:
+-   Hobbies/disliked activities:
 
 Output
 =>
