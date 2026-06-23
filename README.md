@@ -21,7 +21,7 @@ You symply put in yout texts and values which would make sense in context, and p
 (Example) 
 
 Input
-
+=>
 Name:
 
 Age:
@@ -36,7 +36,7 @@ Traits(optional):
 Hobbies/disliked activities:
 
 Output
-
+=>
 NAME (AGE)
 
 He/she is the son/daughter of … and …, …
