@@ -27,7 +27,7 @@ Name:
 
 Age:
 
-Relatives(optional):
+Relationships(optional):
 
 	->family:
 	->friends:
