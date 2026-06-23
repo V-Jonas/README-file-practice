@@ -21,9 +21,7 @@ Age:
 Relatives(optional):
 
 	->family:
-
 	->friends:
-
 	->enemies:
 Traits(optional):
 Hobbies/disliked activities:
