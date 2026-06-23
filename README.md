@@ -24,6 +24,7 @@ Relatives(optional):
 	->friends:
 	->enemies:
 Traits(optional):
+
 Hobbies/disliked activities:
 
 Output
