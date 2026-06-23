@@ -19,8 +19,11 @@ Input
 Name:
 Age:
 Relatives(optional):
+
 	->family:
+
 	->friends:
+
 	->enemies:
 Traits(optional):
 Hobbies/disliked activities:
@@ -30,7 +33,7 @@ NAME (AGE)
 He/she is the son/daughter of … and …, …
 He/She likes …
 
-Author
+Author:
 V-Jonas
 
 License
